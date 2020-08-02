@@ -1,2 +1,6 @@
-# Hackbio-2020-Team-Tesla-First-assignment-Osiagwu-Patricia-N.
-First assignment
+print('Name: Osiagwu Patricia N.')
+print('Email: osiagwupatricia9@gmail.com')
+print('Language: Python')
+print('Biostack: Bioinformatics')
+print('Stack username: @Tris')
+print('Thank you')
